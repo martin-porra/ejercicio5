@@ -1,0 +1,11 @@
+Peter_Parker ,6to,A,14
+Bruce_Wayne  ,6to,A,6
+Stan_paco    ,6to,A,20
+Clark_kent   ,5to,A,15
+Ramon_Jose   ,6to,B,4
+Stan_paco    ,6to,A,8
+Juan_Peron   ,5to,A,5
+Necesito_Ayud,6to,A,17
+Marcos_Loco  ,6to,B,25
+Pedro_Masquij,5to,A,8
+Celeste_fea  ,6to,A,5
